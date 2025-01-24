@@ -11,6 +11,10 @@ export const kanbans = {
     url: "https://github.com/orgs/Wakayama-SocSEL/projects/54",
     level: 2
   },
+  野口B4: {
+    url: "https://github.com/orgs/Wakayama-SocSEL/projects/58",
+    level: 1,
+  },
   野口と: {
     url: "https://github.com/orgs/Wakayama-SocSEL/projects/58",
     level: 1
@@ -30,6 +34,10 @@ export const kanbans = {
   堀尾: { 
     url: "https://github.com/orgs/Wakayama-SocSEL/projects/49", 
     level: 1 
+  },
+  野口B3: {
+    url: "https://github.com/orgs/Wakayama-SocSEL/projects/62",
+    level: 4
   },
   野口は: {
     url: "https://github.com/orgs/Wakayama-SocSEL/projects/62",
