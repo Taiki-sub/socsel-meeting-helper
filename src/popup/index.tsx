@@ -45,6 +45,7 @@ function IndexPopup() {
     return cloneArray
   }
 
+  /* B4ランダムのボタン（）
   const onOpenRandomKanbansHandler: FormEventHandler<HTMLFormElement> =
     useCallback(() => {
       const b4 = ["赤松", "飯田", "川﨑", "野口", "堀尾"]
@@ -56,7 +57,7 @@ function IndexPopup() {
 
       chrome.tabs.create({ url: allLabKanaban })
     }, [])
-
+ */
   return (
     <div className="w-80 border-black bg-white">
       <form className="mx-auto px-8 py-4" onSubmit={onOpenKanbansHandler}>
@@ -72,7 +73,6 @@ function IndexPopup() {
           かんばんを開く
         </button>
       </form>
-      <form className="mx-auto px-8 py-4" onSubmit={onOpenRandomKanbansHandler}>
       <button
           type="submit"
           className="ring-offset-background border-input bg-background mt-2 inline-flex h-10 items-center justify-center whitespace-nowrap rounded-md border px-4 py-2 text-sm font-medium hover:bg-gray-100">
