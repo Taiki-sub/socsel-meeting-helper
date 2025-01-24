@@ -1,54 +1,53 @@
 export const kanbans = {
-  石岡: {
-    url: "https://github.com/orgs/Wakayama-SocSEL/projects/18",
-    level: 3
-  },
   上中: {
-    url: "https://github.com/orgs/Wakayama-SocSEL/projects/22",
+    url: "https://github.com/orgs/Wakayama-SocSEL/projects/64",
     level: 2
   },
   大森: {
-    url: "https://github.com/orgs/Wakayama-SocSEL/projects/28",
+    url: "https://github.com/orgs/Wakayama-SocSEL/projects/68",
     level: 2
   },
   亀岡: {
-    url: "https://github.com/orgs/Wakayama-SocSEL/projects/36",
+    url: "https://github.com/orgs/Wakayama-SocSEL/projects/54",
     level: 1
   },
-  岡本: {
-    url: "https://github.com/orgs/Wakayama-SocSEL/projects/37",
-    level: 1
-  },
-  前川: {
-    url: "https://github.com/orgs/Wakayama-SocSEL/projects/34",
-    level: 1
-  },
-  白﨑: {
-    url: "https://github.com/orgs/Wakayama-SocSEL/projects/33",
-    level: 1
-  },
-  原口: {
-    url: "https://github.com/orgs/Wakayama-SocSEL/projects/25",
-    level: 1
-  },
-  野口: {
-    url: "https://github.com/orgs/Wakayama-SocSEL/projects/42",
+  野口と: {
+    url: "https://github.com/orgs/Wakayama-SocSEL/projects/58",
     level: 4
   },
   飯田: {
-    url: "https://github.com/orgs/Wakayama-SocSEL/projects/41",
+    url: "https://github.com/orgs/Wakayama-SocSEL/projects/65",
     level: 4
   },
   川﨑: {
-    url: "https://github.com/orgs/Wakayama-SocSEL/projects/43",
+    url: "https://github.com/orgs/Wakayama-SocSEL/projects/52",
     level: 4
   },
   赤松: {
-    url: "https://github.com/orgs/Wakayama-SocSEL/projects/45",
+    url: "https://github.com/orgs/Wakayama-SocSEL/projects/63",
     level: 4
   },
-  堀尾: { url: "https://github.com/orgs/Wakayama-SocSEL/projects/44", level: 4 }
+  堀尾: { 
+    url: "https://github.com/orgs/Wakayama-SocSEL/projects/49", 
+    level: 4 
+  },
+  野口は: {
+    url: "https://github.com/orgs/Wakayama-SocSEL/projects/62",
+    level: 3
+  },
+  橋本: {
+    url: "https://github.com/orgs/Wakayama-SocSEL/projects/59",
+    level: 3
+  },
+  豊嶋: {
+    url: "https://github.com/orgs/Wakayama-SocSEL/projects/61",
+    level: 3
+  },
+  吉田: { 
+    url: "https://github.com/orgs/Wakayama-SocSEL/projects/60", 
+    level: 3
+  },
 }
 
 export const allLabKanaban =
-  "https://github.com/orgs/Wakayama-SocSEL/projects/11"
+  "https://github.com/orgs/Wakayama-SocSEL/projects/55"
